@@ -1,0 +1,5 @@
+```shell
+# 安装完之后可能会是on-demand模式，就是会自动启用显卡，这就导致了可能会有点卡，毕竟我的i5要带4k还是带不动的
+prime-select query # 查询
+prime-select nvidia # 切换到nvidia显卡
+```
