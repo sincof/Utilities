@@ -1,0 +1,7 @@
+1. 关闭右上角的discover按钮，难看，启动命令后面加上 --disable-features=msUndersideButton （注意空格）
+2. edge://flags/#edge-show-feature-recommendations 设置为Disabled，去掉edge的大部分推广，如推荐使用新标签页作为起始页之类的
+3. edge://flags/#enable-parallel-downloading 设置为Enable，提高下载速度
+4. edge://flags/#smooth-scrolling 设置为Enable，平滑滚动
+5. Assigns the Backspace key to go back a page
+6. Microsoft Edge Share Menu
+7. Show feature and workflow recommendations
