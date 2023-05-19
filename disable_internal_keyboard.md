@@ -11,3 +11,10 @@
     # 然后重启
     shutdown -r now
   ```
+
+2. windows internal keyboard
+
+cmd 中运行这个就行
+```cmd
+sc config i8042prt start= disabled
+```
